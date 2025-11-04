@@ -19,12 +19,15 @@ Berikut dokumentasi perkembangan konfigurasi jaringan dari awal hingga tahap akh
 ## 🎥 Proof of Connectivity (Video)
 
 <p align="center">
-  <img src="proof.png" width="60%" alt="Final Proof Image"><br><br>
-  <video width="80%" controls>
-    <source src="proof.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <a href="https://github.com/<username>/cisco-static-routing-lab/raw/main/proof.mp4">
+    <img src="proof.png" width="60%" alt="Klik untuk menonton video proof">
+  </a>
 </p>
+
+<p align="center">
+  🎬 <a href="https://github.com/<username>/cisco-static-routing-lab/raw/main/proof.mp4">Klik di sini untuk menonton hasil pengujian konektivitas</a>
+</p>
+
 
 *Video menunjukkan hasil pengujian konektivitas antar PC melalui perintah `ping`, memastikan konfigurasi berjalan sukses.*
 
@@ -33,7 +36,7 @@ Berikut dokumentasi perkembangan konfigurasi jaringan dari awal hingga tahap akh
 ## 🌐 Cisco Packet Tracer Topology
 
 <p align="center">
-  <img src="cisco.png" width="80%" alt="Cisco Packet Tracer Topology">
+  <img src="maincisco.png" width="80%" alt="Cisco Packet Tracer Topology">
 </p>
 
 **Project File:** [`cisco.pkt`](cisco.pkt)
