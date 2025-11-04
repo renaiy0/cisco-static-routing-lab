@@ -36,7 +36,7 @@ Berikut dokumentasi perkembangan konfigurasi jaringan dari awal hingga tahap akh
   <img src="cisco.png" width="80%" alt="Cisco Packet Tracer Topology">
 </p>
 
-**Project File:** [`cisco.pkt`](Cisco/cisco.pkt)
+**Project File:** [`cisco.pkt`](cisco.pkt)
 
 ---
 
