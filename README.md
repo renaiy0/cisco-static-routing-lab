@@ -19,15 +19,14 @@ Berikut dokumentasi perkembangan konfigurasi jaringan dari awal hingga tahap akh
 ## 🎥 Proof of Connectivity (Video)
 
 <p align="center">
-  <a href="https://github.com/<username>/cisco-static-routing-lab/proof.mp4">
+  <a href="https://github.com/renaiy0/cisco-static-routing-lab/raw/main/proof.mp4">
     <img src="proof.png" width="60%" alt="Klik untuk menonton video proof">
   </a>
 </p>
 
 <p align="center">
-  🎬 <a href="https://github.com/<username>/cisco-static-routing-lab/raw/main/proof.mp4">Klik di sini untuk menonton hasil pengujian konektivitas</a>
+  🎬 <a href="https://github.com/renaiy0/cisco-static-routing-lab/raw/main/proof.mp4">Klik di sini untuk menonton hasil pengujian konektivitas</a>
 </p>
-
 
 *Video menunjukkan hasil pengujian konektivitas antar PC melalui perintah `ping`, memastikan konfigurasi berjalan sukses.*
 
